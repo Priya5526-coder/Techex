@@ -1,0 +1,51 @@
+header {
+   background: url('../images/img1.png') no-repeat center center/cover;
+
+}
+.btn{
+   border-radius: 10px;
+   padding: 7px;
+}
+.section1{
+   background: rgb(222, 222, 220);
+}
+.para1{
+   border-radius: 13px;
+   background-color: #fff;
+}
+.section2{
+   background: url('../images/img24.png') no-repeat right;
+}
+.section3 , .section6 , .section9{
+   background: #211E3B;
+}
+.cardeff:hover{
+   background-color: rgb(79, 79, 211);
+}
+.container-fluid{
+       position: relative;
+    top: 102px;
+}
+.btn:hover{
+   background: rgb(83, 83, 255) !important;
+   color: #fff;
+}
+.section5{
+   background: rgb(195, 194, 194);
+}
+.photo{
+   width:300px;
+   height: 232px;
+}
+.photo {
+    transition: transform 0.3s ease-in-out;
+}
+
+.photo:hover {
+    transform: scale(1.1); /* Adjust the scale value for desired zoom */
+}
+
+
+
+
+
